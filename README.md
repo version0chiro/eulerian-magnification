@@ -86,6 +86,4 @@ properly.  Make sure you adjust the path to the actual location of your opencv l
     rm dist -r
 
 
-## Author
 
-Bryce Drennan <eulerian-magnify@brycedrennan.com>
